@@ -5,6 +5,7 @@ Languages (Currently learning):
 - HTML
 - Python
 - CSS
+- Javascript
 
 Want to learn:
 - LUA
